@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\bin\Debug\net6.0\Exsample002_Hello_User.exe
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\bin\Debug\net6.0\Exsample002_Hello_User.deps.json
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\bin\Debug\net6.0\Exsample002_Hello_User.runtimeconfig.json
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\bin\Debug\net6.0\Exsample002_Hello_User.dll
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\bin\Debug\net6.0\Exsample002_Hello_User.pdb
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.AssemblyInfo.cs
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.dll
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\refint\Exsample002_Hello_User.dll
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.pdb
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\Exsample002_Hello_User.genruntimeconfig.cache
+C:\Users\HP\Desktop\Exsamples\Exsample002_Hello_User\obj\Debug\net6.0\ref\Exsample002_Hello_User.dll
